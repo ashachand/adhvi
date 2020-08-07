@@ -1,0 +1,16 @@
+2;asfff.dll;0;1;IndexNumber;N0;PluginFilename;Sasfff.dll;PluginType;SPLUGIN_FILE_FORMAT;FileMime;Sapplication/vnd.ms-asf|audio/x-ms-wma|video/x-ms-wmv;FileExtensions;Sasf|wma|wmv;FileOpenNames;SWindows Media Files (*.asf,*.wma,*.wmv);ClaimedSchemeExtensionPairs;Smms|mmsu|mmst|rtspu|rtspt|httpt|http:asf|http:wma|http:wmv|rtsp:asf|rtsp:wma|rtsp:wmv;;
+2;wmarender.dll;0;1;IndexNumber;N0;Renderer_Granularity;N100;PluginFilename;Swmarender.dll;RendererMime;Saudio/x-hx-wma;PluginType;SPLUGIN_RENDERER;;
+2;hxwmdrmplugin.dll;0;1;IndexNumber;N0;PluginFilename;Shxwmdrmplugin.dll;PluginType;SPLUGIN_SOURCE_HANDLER;PluginSubType;SSOURCE_HANDLER_DRM;SourceHandlerGUID;Sffffffff-0000-0000-1111-22223333444;ShortName;Swdrm;;
+2;audplin.dll;1;2;IndexNumber;N0;PluginFilename;Saudplin.dll;PluginType;SPLUGIN_FILE_FORMAT;FileMime;Saudio/amr|audio/awb;FileExtensions;Samr|awb;FileOpenNames;SAMR Files (*.amr,*.awb);;IndexNumber;N1;Renderer_Granularity;N100;PluginFilename;Saudplin.dll;RendererMime;Saudio/X-RN-3GPP-QCELP|audio/QCELP|audio/x-ralf-mpeg4-generic|audio/X-RN-MP4-RAWAU|audio/MP4A-LATM|audio/mpeg4-simple-A2|audio/mpeg4-generic|audio/X-HX-AAC-GENERIC|audio/X-RN-3GPP-AMR|audio/AMR|audio/X-RN-3GPP-AMR-WB|audio/AMR-WB|audio/X-MP3-draft-00|audio/X-MP3-draft-00-RN|audio/MPEG-ELEMENTARY|audio/rn-mpeg;PluginType;SPLUGIN_RENDERER;;
+2;log.dll;0;1;IndexNumber;N0;PluginFilename;Slog.dll;;
+2;logobserverfile.dll;0;1;IndexNumber;N0;PluginFilename;Slogobserverfile.dll;;
+2;rarender.dll;1;2;IndexNumber;N0;Renderer_Granularity;N100;PluginFilename;Srarender.dll;RendererMime;Saudio/x-pn-realaudio|audio/x-pn-multirate-realaudio|audio/x-pn-multirate-realaudio-live;PluginType;SPLUGIN_RENDERER;;IndexNumber;N1;Renderer_Granularity;N100;PluginFilename;Srarender.dll;RendererMime;Sapplication/x-pn-realevent|application/x-pn-imagemap|image_map/x-pn-realvideo;PluginType;SPLUGIN_RENDERER;;
+2;rmfformat.dll;0;1;IndexNumber;N0;PluginFilename;Srmfformat.dll;PluginType;SPLUGIN_FILE_FORMAT;FileMime;Saudio/x-pn-realaudio|application/x-pn-realmedia|video/x-pn-realvideo-encrypted|audio/x-pn-realaudio-encrypted|application/vnd.rn-realmedia-secure|application/x-musicnet-download|application/vnd.rn-realmedia-vbr|application/x-musicnet-stream;FileExtensions;Sra|rm|rmd|rmj|rms|mnd|rmc|rmvb|mns|mrc|rax|rvx|rv;FileOpenNames;SRealMedia Files (*.ra, *.rm, *.rmj, *.rms, *.mnd, *.rmc, *.rmvb, *.mns, *.mrc, *.rax, *.rvx, *.rv);;
+2;smplfsys.dll;0;1;IndexNumber;N0;PluginFilename;Ssmplfsys.dll;PluginType;SPLUGIN_FILE_SYSTEM;FileShort;Spn-mini-local;FileProtocol;Sfile;;
+1;wma9.dll;
+1;arma.dll;
+1;clntcore.dll;
+1;cook.dll;
+1;dspmdfaud.dll;
+1;hxmetadataeng.dll;
+1;sipr.dll;
